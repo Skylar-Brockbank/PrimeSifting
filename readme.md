@@ -1,8 +1,8 @@
-# _C# template Repo_
+# _Prime Sifting_
 
 #### _{Brief description of application}_
 
-#### By _**Charles T Weber**_
+#### By _**Albert Lee & Skylar BrockBank**_
 
 ## Technologies Used
 
@@ -52,5 +52,3 @@ MIT 2021
 If you run into issues or bugs with this web application, please contact one of the developers below. Thank you!
 
 ## Contact Information
-
-_charlestweber@gmail.com_
